@@ -13,5 +13,4 @@
 
 <img width="787" alt="GitHub" src="https://github.com/Hadiysn/-HadiYassine-_Training_Modules/assets/142054186/3439afe2-196e-4a31-867a-e33c1b7801da">
 
-
 My Favorite piece of music: https://www.youtube.com/watch?v=tKVzm0SBYtQ
