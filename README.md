@@ -47,3 +47,10 @@ My Favorite piece of music: https://www.youtube.com/watch?v=tKVzm0SBYtQ
 3. To add a multiple-line comment in Python we use the characters ''' before and after of the comment block or lines. 
 4. To add a multiple-line comment in C++ we use the characters /* before the start of the comment, and */ after the end of the comment block or lines.
 
+### Method: main
+
+#### Description:
+The purpose of this function is to identify whether the sum of two random integers (assigned by user) is even or odd.
+
+#### Parameters:
+num1, num2, and sum.
