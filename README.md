@@ -33,3 +33,24 @@ My Favorite piece of music: https://www.youtube.com/watch?v=tKVzm0SBYtQ
 
 
 <img width="487" alt="Screenshot 2023-08-18 at 5 54 10 PM" src="https://github.com/Hadiysn/-HadiYassine-_Training_Modules/assets/142054186/aa224803-64d8-496d-8b79-bbc37d7ea6bd">
+
+
+
+
+
+# <HadiYassine> Module Three
+
+## Answers:
+
+1. To add a single-line comment in Python we use the character # before the start of the comment.
+2. To add a single-line comment in C++ we use the characters // before the start of the comment.
+3. To add a multiple-line comment in Python we use the characters ''' before and after of the comment block or lines. 
+4. To add a multiple-line comment in C++ we use the characters /* before the start of the comment, and */ after the end of the comment block or lines.
+
+### Method: main
+
+#### Description:
+The purpose of this function is to identify whether the sum of two random integers (assigned by user) is even or odd.
+
+#### Parameters:
+num1, num2, and sum.
