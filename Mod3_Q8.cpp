@@ -14,7 +14,7 @@ int main() {
     cout << "Enter the second number: ";
     cin >> num2;
 
-    // adding the 2 p
+    // adding the 2 numbers
     sum = num1 + num2;
 
     // Check if the sum is even or odd
